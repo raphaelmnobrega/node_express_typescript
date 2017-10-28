@@ -1,3 +1,9 @@
 {
+    "search.excludeFolders": [
+        ".git",
+        "node_modules",
+        "bower_components",
+        "path/to/other/folder/to/exclude"
+    ],
     "typescript.tsdk": "node_modules/typescript/lib/"
 }
